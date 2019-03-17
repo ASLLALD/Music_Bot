@@ -1,6 +1,5 @@
 owner=529744078007566336
 prefix= =
-game= =help
 stayinchannel=true
 songinstatus=false
-token=NTQzMDIxNjQ5NjI5NDEzMzc2.Dz2f_A.jIbo07dHBPxpl4roE2tZKfMQPZ8
+token=NTQ0MTk3MDM1MjUxNzI4Mzg2.D3AJDg.Ra-lis3Lpi0VtSfdIC01zs0ur7A
